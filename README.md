@@ -14,7 +14,7 @@ Prompt engineering is a significant field and the method to interact with these 
 - Insert the OpenAI LLM Key in the `llm_secrets.py` file under the `llm_api_key` variable
 - Setup: 
 ```sh
-git clone [https://github.com/your-username/your-project.git](https://github.com/Mahir-ally1/Improve-Your-Prompt.git)
+git clone https://github.com/Mahir-ally1/Improve-Your-Prompt.git
 pip install -r requirements.txt
 ```
 - Make any changes to the prompt in the [instructions](prompts/instruction_prompt.txt)
