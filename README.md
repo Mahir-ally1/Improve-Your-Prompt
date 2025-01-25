@@ -23,6 +23,6 @@ pip install -r requirements.txt
 
 ## Next Steps
 
-Adding more context in the [guidelines](guidelines/) folder
+Adding more context in the [guidelines](context_guidelines/) folder
 
 
